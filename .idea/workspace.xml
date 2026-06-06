@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="24fd376c-e55b-4dbd-b621-0d02022b6a0d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="121" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.2583808047989792E-6" />
+      <entry key="MS500" value="0.06606362753508628" />
+      <entry key="S2" value="0.5069797398950145" />
+      <entry key="S5" value="0.7620724151698847" />
+      <entry key="S10" value="0.8729675911337629" />
+      <entry key="S30" value="0.9557244728404911" />
+      <entry key="S60" value="0.9776116165638025" />
+      <entry key="M2" value="0.9887424419755645" />
+      <entry key="M5" value="0.9954816768943148" />
+      <entry key="M10" value="0.9977382807601975" />
+      <entry key="M15" value="0.9984916182264948" />
+      <entry key="M30" value="0.9992455244966048" />
+      <entry key="H1" value="0.9996226910672871" />
+      <entry key="H2" value="0.9998113277350318" />
+      <entry key="H4" value="0.9999056594174431" />
+      <entry key="D1" value="0.9999842759514725" />
+      <entry key="W1" value="0.9999977536922156" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0" />
+      <entry key="S60" value="1.0" />
+      <entry key="M2" value="1.0" />
+      <entry key="M5" value="1.0" />
+      <entry key="M10" value="1.0" />
+      <entry key="M15" value="1.0" />
+      <entry key="M30" value="1.0" />
+      <entry key="H1" value="1.0" />
+      <entry key="H2" value="1.0" />
+      <entry key="H4" value="1.0" />
+      <entry key="D1" value="1.0" />
+      <entry key="W1" value="1.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.2590213413727597E-6" />
+      <entry key="MS500" value="0.08056165060495006" />
+      <entry key="S2" value="0.8539779196489126" />
+      <entry key="S5" value="1.4169058996163197" />
+      <entry key="S10" value="1.6821854137541217" />
+      <entry key="S30" value="1.8875940777491453" />
+      <entry key="S60" value="1.9429455509661182" />
+      <entry key="M2" value="1.9712565306289107" />
+      <entry key="M5" value="1.98845027539322" />
+      <entry key="M10" value="1.994216378110513" />
+      <entry key="M15" value="1.9961423027651721" />
+      <entry key="M30" value="1.9980701760439508" />
+      <entry key="H1" value="1.9990348440589074" />
+      <entry key="H2" value="1.999517361022628" />
+      <entry key="H4" value="1.9997586652575998" />
+      <entry key="D1" value="1.9999597754241913" />
+      <entry key="W1" value="1.9999942535801374" />
+    </decayedShown>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:/xampp/php/php.exe" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3El25T98S5BSkEsc7YT3FInbyCT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "show.migrate.to.gradle.popup": "false",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="DAPConfiguration" factoryName="DAPConfiguration">
+      <option name="workingDirectory" value="$PROJECT_DIR$/flwora" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/Flwora/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24fd376c-e55b-4dbd-b621-0d02022b6a0d" name="Changes" comment="" />
+      <created>1780738667935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780738667935</updated>
+      <workItem from="1780738669309" duration="319000" />
+      <workItem from="1780739118416" duration="1054000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
